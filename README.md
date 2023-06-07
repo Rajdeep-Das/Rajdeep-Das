@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Rajdeep-Das's GitHub | Stats](https://stats.quine.sh/Rajdeep-Das/github?theme=light)](https://quine.sh)
+[![Rajdeep-Das's GitHub | Stats](https://stats.quine.sh/Rajdeep-Das/github?theme=light)](https://quine.sh) 
+[![Rajdeep-Das's GitHub | Languages Over Time](https://stats.quine.sh/Rajdeep-Das/languages-over-time?theme=light)](https://quine.sh)
+[![Rajdeep-Das's GitHub | Topics](https://stats.quine.sh/Rajdeep-Das/topics-over-time?theme=light)](https://quine.sh)
