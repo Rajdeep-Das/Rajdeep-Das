@@ -14,7 +14,9 @@ I'm a **senior .NET tech lead** and **independent software consultant** with ext
 
 ## 🎯 What I'm Currently Working On
 
-🏥 **MediBook Pro** - Building a comprehensive healthcare management platform using .NET 8, microservices, and cloud-native technologies
+🏥 **MediBook Pro** - Building an Enterprise-grade multi-tenant SaaS healthcare management platform powered by .NET 9 Web API, Next.js, PostgreSQL, and Azure Container Apps. Delivers scalable appointment booking, patient management, payment processing, and multi-location operations with bank-level security, complete tenant isolation, and 99.9% uptime SLA for healthcare organizations.
+
+**Enterprise Features**: Role-based access control, HIPAA compliance, real-time analytics, white-label branding, custom domains, and seamless integrations with payment gateways and notification systems.
 
 🩺 **Healthcare Domain Solutions** - Developing HIPAA-compliant medical applications with modern .NET and cloud architectures
 
